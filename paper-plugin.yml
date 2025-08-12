@@ -1,0 +1,14 @@
+name: LightningCity
+main: server.lightning.Lightning
+version: 1.0
+api-version: 1.21.1
+
+commands:
+  lightningcity:
+    description: Control LightningCity plugin
+    usage: /<command> <on|off|mode>
+    permission: lightningcity.control
+
+permissions:
+  lightningcity.control:
+    default: op
