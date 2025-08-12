@@ -88,4 +88,4 @@ Let’s keep Minecraft fun & creative. 💖
 
 ---
 
-**🔥 Made with love & lightning ⚡ by [YourName]**
+**🔥 Made with love & lightning ⚡ by Artic Blue**
